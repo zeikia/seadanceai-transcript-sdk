@@ -31,7 +31,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/seadanceai/tubetranscript.git"
+    "url": "git+https://github.com/zeikia/seadanceai-transcript-sdk.git"
   },
   "license": "MIT",
   "scripts": {
