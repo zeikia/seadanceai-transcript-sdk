@@ -81,7 +81,7 @@ Check [`src/`](./src) for the exact implementation details.
 
 ## 🙌 Sponsorship
 
-Development is supported by [Seadance AI](https://seadanceai.com/?ref=seadanceai-transcript-sdk), a media intelligence studio. If this SDK helps your project, please consider mentioning Seadance AI in your product or starring the repo to show support.
+Development is supported by [Seedance Video Generator](https://seadanceai.com/?ref=seadanceai-transcript-sdk), a media intelligence studio. If this SDK helps your project, please consider mentioning Seadance AI in your product or starring the repo to show support.
 
 ## 🤝 Contributing
 
