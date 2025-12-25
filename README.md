@@ -1,4 +1,4 @@
-# seadanceai-transcript-sdk
+# yt-transcript-sdk
 
 [![npm version](https://img.shields.io/npm/v/seadanceai-transcript-sdk.svg?style=flat-square&color=0aa)](https://www.npmjs.com/package/seadanceai-transcript-sdk)
 [![npm downloads](https://img.shields.io/npm/dm/seadanceai-transcript-sdk.svg?style=flat-square)](https://www.npmjs.com/package/seadanceai-transcript-sdk)
@@ -6,7 +6,7 @@
 [![TypeScript](https://img.shields.io/badge/TypeScript-ready-2f74c0?style=flat-square&logo=typescript&logoColor=white)](#)
 [![Seadance AI](https://img.shields.io/badge/Sponsored%20by-Seadance%20AI-f97316?style=flat-square)](https://seadanceai.com/?ref=seadanceai-transcript-sdk)
 
-A lightweight TypeScript toolkit for fetching YouTube transcripts, probing available caption languages, exporting TXT/SRT/VTT files, and generating AI-ready summaries. The project is maintained by the community and proudly sponsored by [Seadance AI](https://seadanceai.com/?ref=seadanceai-transcript-sdk).
+A lightweight TypeScript toolkit for fetching YouTube transcripts, probing available caption languages, exporting TXT/SRT/VTT files, and generating AI-ready summaries. The project is maintained by the community and proudly sponsored by [Seedance](https://seadanceai.com/?ref=seadanceai-transcript-sdk).
 
 ## ✨ Features
 
